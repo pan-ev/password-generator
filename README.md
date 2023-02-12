@@ -36,4 +36,4 @@ N/A
 
 Please refer to the LICENSE in the repo.
 
-Link to Deployed Application - 
+Link to Deployed Application - https://pan-ev.github.io/password-generator/
